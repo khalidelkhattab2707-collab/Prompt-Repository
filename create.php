@@ -14,7 +14,6 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
     echo "<p>Prompt ajouté avec succès !</p>";
 }
 ?>
-
 <h1>Ajouter un Prompt</h1>
 
 <form method="POST">
